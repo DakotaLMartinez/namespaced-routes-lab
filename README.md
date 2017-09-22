@@ -35,4 +35,7 @@ already pass at the beginning still pass when you're done!
 
 ![Happy Gilmore](http://i.giphy.com/h2Q9ZYee54UOk.gif)
 
+## Resources 
+* [Rails Routing from the Outside In](http://guides.rubyonrails.org/routing.html#controller-namespaces-and-routing)
+
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/namespaced-routes-lab' title='Namespaced Routes Lab'>Namespaced Routes Lab</a> on Learn.co and start learning to code for free.</p>
